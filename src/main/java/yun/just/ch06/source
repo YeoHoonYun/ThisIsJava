@@ -1,0 +1,9 @@
+자바 API의 주요기능 과 패키지
+lang and utill : 자바 언어의 주요 구성 요소와 관련된 패키지 / java.lang, java.util /
+Math : 각종 수학 계산과 관련된 클래스 및 유틸리티 / java.math, java.lang.Math
+Collections : 다양한 자료구조를 동일한 방법으로 처리할 수 있도록 하는 라이브러리 / java.util
+Input/Output : 키보드, 네트워크, 파일 등 입출력 관련 주요 기능을 제공하는 라이브러리 / java.io.java.nio, java.net
+Date and Time : 시간 및 날짜 처리 관련 라이브러리 / java.utils, java.text
+networking : 네트워크 통신 프로그래밍 관련 라이브러리 / java.net
+Swing/AWT : 그래픽 사용자 인터페이스 구현 관련 라이브러리 / java.swing, java.awt, javax.swing
+JDBC : 데이터베이스 프로그래밍 관련 라이브러리 / java.sql
