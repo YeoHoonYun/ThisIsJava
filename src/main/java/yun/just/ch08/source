@@ -1,0 +1,14 @@
+AWT : 자바 에서 가장 기본이 되는 GUI 툴킷
+ => 운영체제에 이질감이 없는 디자인에 새로운 요구 등을 수용하여 Swing 툴킷을 개발
+
+java.awt.Component
+ - java.awt.Button
+ - java.awt.Canvas
+ - java.awt.Checkbox
+ - java.awt.Choice
+ - java.awt.Container
+    - java.awt.Panel
+    - java.awt.ScrollPane
+    - java.awt.Window
+
+Swing : AWT의 부족한 부분을 보완하려고 나온 GUI 툴킷이다. 운영체제에 따라 최적화된 모양을 제공하는 룩앤필기능을 추가했고, AWT에 부족했던 컴포넌트들도 대거 보강했다.
