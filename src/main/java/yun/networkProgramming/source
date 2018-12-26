@@ -1,0 +1,14 @@
+InputStream
+OutputStream
+
+Socket Programming
+A <- Socket -> B
+
+서버 소켓
+ - 생성
+ - 바인드
+ - 리슨
+ - 어셉트
+
+클라이언트 소켓
+
